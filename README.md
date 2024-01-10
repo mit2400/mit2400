@@ -1,15 +1,13 @@
-### Researcher interested in AI & Cloud 
- 
- [![GoogleScholarBadge](http://img.shields.io/badge/-GoogleScholar-E0E0E0?style=flat-square&logo=googlescholar&link=https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)](https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)
+### AI & Cloud Researcher
+ [![GoogleScholarBadge](http://img.shields.io/badge/-GoogleScholar-F0F0F0?style=flat-square&logo=googlescholar&link=https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)](https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkooku/)](https://www.linkedin.com/in/minkooku/)
 	
- 
-Researcher at KIST (2021.03 ~ current)
-- Currently, interested in efficient fine-tuning for LM
-- Robust training method for CNN based on feature-level augmentation (AAAI'24)
+**Researcher at KIST (2021.03 - current)** 
+- Currently, Surveying on efficient fine-tuning for Language Models
+- Developed a robust training method for CNN based on feature-level augmentation (AAAI'24)
 - Time-seies modeling for ICU severity prediction under COVID-19
 
-Prev. Research topics
+**Previous Research  (2015 - 2021, B.S & M.S at Korea Univ.)**
 - Network for Distributed deep learning
 - SDN Cloud networking
 - Docker container resource scheduling
