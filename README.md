@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkooku/)](https://www.linkedin.com/in/minkooku/)
 	
 **Researcher at KIST (2021.03 - current)** 
-- Currently, Surveying on efficient fine-tuning for Language Models
+- Currently, Surveying on efficient fine-tuning for Lightweight Language Models
 - Developed a robust training method for CNN based on feature-level augmentation (AAAI'24)
 - Time-seies modeling for ICU severity prediction under COVID-19
 
