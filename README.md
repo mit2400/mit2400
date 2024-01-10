@@ -4,15 +4,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkooku/)](https://www.linkedin.com/in/minkooku/)
 	
  
-- Researcher at KIST (2021.03 ~ current)
-  - Currently, interested in efficient fine-tuning for LM
-  - Robust training method for CNN based on feature-level augmentation (AAAI'24)
-  - Time-seies modeling for ICU severity prediction under COVID-19
+Researcher at KIST (2021.03 ~ current)
+- Currently, interested in efficient fine-tuning for LM
+- Robust training method for CNN based on feature-level augmentation (AAAI'24)
+- Time-seies modeling for ICU severity prediction under COVID-19
 
-- Prev. Research topics
-  - Network for Distributed deep learning
-  - SDN Cloud networking
-  - Docker container resource scheduling
+Prev. Research topics
+- Network for Distributed deep learning
+- SDN Cloud networking
+- Docker container resource scheduling
 
 
 <!--
