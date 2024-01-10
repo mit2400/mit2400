@@ -1,4 +1,13 @@
-### Hi there 👋
+### Researcher interested in AI & Cloud 
+- Researcher at KIST (2021.03 ~ current)
+  - Currently, interested in efficient fine-tuning for LM
+  - Robust training method for CNN based on feature-level augmentation (AAAI'24)
+  - Time-seies modeling for ICU severity prediction under COVID-19
+
+- Prev. Research topics
+  - Network for Distributed deep learning
+  - SDN Cloud networking
+  - Docker container resource scheduling
 
 <!--
 **mit2400/mit2400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
