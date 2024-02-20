@@ -1,4 +1,4 @@
-### AI & Cloud Researcher
+### Researcher
  [![GoogleScholarBadge](http://img.shields.io/badge/-GoogleScholar-F0F0F0?style=flat-square&logo=googlescholar&link=https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)](https://scholar.google.com/citations?user=p0dPC1wAAAAJ&hl=ko&oi=ao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minkooku/)](https://www.linkedin.com/in/minkooku/)
 	
