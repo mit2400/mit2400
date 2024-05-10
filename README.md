@@ -8,8 +8,8 @@
 - Time-seies modeling for ICU severity prediction under COVID-19
 
 **Previous Research  (2015 - 2021, B.S & M.S at Korea Univ.)**
-- Network for Distributed deep learning
-- SDN Cloud networking
+- Distributed deep learning
+- SDN Cloud
 - Docker container resource scheduling
 
 
